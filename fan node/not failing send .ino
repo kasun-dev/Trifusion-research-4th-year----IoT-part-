@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <WiFi.h>
 #include <esp_now.h>
-#include <esp_wifi.h>     // ⭐ REQUIRED
+#include <esp_wifi.h>     // ⭐ REQUIRED 
 #include <Adafruit_Sensor.h>
 #include <Adafruit_ADXL345_U.h>
 #include <max6675.h>
